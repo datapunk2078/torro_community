@@ -61,7 +61,6 @@ PyYAML==6.0
 requests==2.26.0
 rpm==4.14.3
 rsa==4.8
-schedutils==0.6
 selinux==2.9
 sepolicy==1.1
 setools==4.3.0
