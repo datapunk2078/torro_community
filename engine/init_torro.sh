@@ -6,6 +6,7 @@ yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarc
 yum install -y wget
 yum install -y coreutils
 yum install -y python3-devel
+yum install -y python3-setuptools
 yum install -y tmux
 wget https://repo.mysql.com//mysql80-community-release-el8-1.noarch.rpm
 rpm -ivh mysql80-community-release-el8-1.noarch.rpm
